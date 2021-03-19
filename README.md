@@ -1,0 +1,3 @@
+- 👋 Hi, I’m smrat dev
+- 👀 I’m interested in c#, php, JS, Style
+- 🌱 I’m currently learning mongo, react laravel
